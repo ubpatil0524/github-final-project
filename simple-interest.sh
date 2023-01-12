@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # <ubpatil0524/github-final-project>
 
    # Input:
    # p, principal amount
